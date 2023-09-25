@@ -2,10 +2,10 @@
 
 ## Description
 
-The purpose of this project was to create a study guide for making notes related to learning on HTML, CSS, Javascript.
-Built a study resource that we can reference back to and use a reminder of key learning points 
-Helps to keep all notes structured and easy to access
-Learned basics of html, css, js, git and github as well as best practices of development workflows 
+The purpose of this project was to create a study guide for making notes related to our learnings during the edX FrontEnd bootcamp on HTML, CSS, Javascript and Git.
+We built a study resource that we can reference back to and use as a reminder of key learning points. 
+This resource helps to keep all notes structured and easy to access whenever needed. 
+Learned basics of HTML, CSS, JS, git, and GitHub as well as best practices of development workflows.
 
 ## Installation
 
